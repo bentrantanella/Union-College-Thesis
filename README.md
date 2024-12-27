@@ -1,1 +1,3 @@
 # Union-College-Thesis
+
+Thesis research project completed at Union College to fulfill the senior capstone experience. Carried out background research, designed and conducted necessary experiments, and ultimately wrote final thesis paper. The main goal of this research project was to figure out whether a data structure could be chosen as the underlying driver of Dijkstra's algorithm to optimize run-time when certain characteristics of the graph were known, such as size and density. Along with the final research paper, multiple poster sessions and video presentations were conducted to present the project.
